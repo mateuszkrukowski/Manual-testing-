@@ -1,0 +1,18 @@
+Testing the size, position, width, height of the elements.
+Testing of the error messages that are getting displayed.
+Testing the different sections of the screen.
+Testing of the font whether it is readable or not.
+Testing of the screen in different resolutions with the help of zooming in and zooming out.
+Testing the alignment of the texts and other elements like icons, buttons, etc. are in proper place or not.
+Testing the colors of the fonts.
+Testing whether the image has good clarity or not.
+Testing the alignment of the images.
+Testing of the spelling.
+The user must not get frustrated while using the system interface.
+Testing whether the interface is attractive or not.
+Testing of the scrollbars according to the size of the page if any.
+Testing of the disabled fields if any.
+Testing of the size of the images.
+Testing of the headings whether it is properly aligned or not.
+Testing of the color of the hyperlink.
+Testing UI Elements like button, textbox, text area, check box, radio buttons, drop downs ,links etc.
